@@ -44,5 +44,7 @@ Select the methods you want to test. It will generate a test class inside the te
 
 You may also create your own test inside this new class as in this example code.
 
+After creating your test, run the test class. You may also run the test in the Gradle tab.
+
 
 
